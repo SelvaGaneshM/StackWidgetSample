@@ -1,0 +1,7 @@
+#Wed Oct 12 14:29:39 IST 2016
+base.0=D\:\\Android_Workspace\\StackWidgetSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f502878731ff78a59d190ffc225324e80df1af38
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Android_Workspace\\StackWidgetSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_845d4d5e618d60d9b359845e07f025b41599fa5d\\classes.dex
+base.1=D\:\\Android_Workspace\\StackWidgetSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_845d4d5e618d60d9b359845e07f025b41599fa5d
+file.0=D\:\\Android_Workspace\\StackWidgetSample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f502878731ff78a59d190ffc225324e80df1af38\\classes.dex
